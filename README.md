@@ -11,5 +11,7 @@
 - ShellOfAwd
 
 
+- wechat_game
+
 WP参考资料：
 
